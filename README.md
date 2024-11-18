@@ -58,7 +58,7 @@ Pastikan Anda sudah menginstal:
 ## Dokumentasi Video
 
 ### Tugas Wajib
-Link video deteksi objek menggunakan OpenCV: [Video Deteksi Objek](https://drive.google.com/file/d/your_video_id/view)
+Link video deteksi objek menggunakan OpenCV: [Video Deteksi Objek]: https://drive.google.com/file/d/1MCzS70ob8T8hmq9_eUVdrpL13yPe1Tuq/view?usp=drivesdk
 
 ### Super Bonus (YOLO)
-Link video deteksi objek menggunakan YOLO: [Video YOLO Deteksi](https://drive.google.com/file/d/your_yolo_video_id/view)
+Link video deteksi objek menggunakan YOLO: [Video YOLO Deteksi]: https://drive.google.com/file/d/ (Belum Selesai)
