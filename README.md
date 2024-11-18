@@ -20,7 +20,7 @@ Proyek ini bertujuan untuk mendeteksi objek 2D pada video menggunakan teknik pem
 ## Cara Menjalankan Program
 
 ### Persyaratan
-Pastikan Anda sudah menginstal:
+Pastikan sudah menginstal:
 - **OpenCV** (minimal versi 4.x)
 - **CMake** untuk mengonfigurasi dan membangun proyek C++
 - **YOLOv3** model (untuk super bonus)
