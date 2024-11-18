@@ -1,0 +1,3 @@
+/home/kinarast/proyek_yolo/build/CMakeFiles/yolo_detection.dir
+/home/kinarast/proyek_yolo/build/CMakeFiles/edit_cache.dir
+/home/kinarast/proyek_yolo/build/CMakeFiles/rebuild_cache.dir
