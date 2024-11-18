@@ -14,7 +14,7 @@ Proyek ini bertujuan untuk mendeteksi objek 2D pada video menggunakan teknik pem
 ### Bonus
 - Implementasi proyek menggunakan **C++** dengan setup **CMake** dan **Ubuntu (dual-boot)**.
 
-### Super Bonus
+### Bonus
 - Menggunakan algoritma **YOLO (You Only Look Once)** untuk deteksi objek.
 
 ## Cara Menjalankan Program
@@ -46,7 +46,7 @@ Pastikan Anda sudah menginstal:
    ./object_detection
    ```
 
-4. Untuk YOLO super bonus, navigasi ke folder `yolo_proyek/` dan build proyek:
+4. Untuk YOLO, navigasi ke folder `yolo_proyek/` dan build proyek:
    ```bash
    cd yolo_proyek
    mkdir build
@@ -61,5 +61,5 @@ Pastikan Anda sudah menginstal:
 ### Tugas Wajib
 Link video deteksi objek menggunakan OpenCV: https://drive.google.com/file/d/1MCzS70ob8T8hmq9_eUVdrpL13yPe1Tuq/view?usp=drivesdk
 
-### Super Bonus (YOLO)
+### Bonus (YOLO)
 Link video deteksi objek menggunakan YOLO: https://drive.google.com/file/d/1x8CXj87yCM4mpO-mkRp5-TvBT6MYTRZT/view?usp=sharing
