@@ -29,6 +29,7 @@ Pastikan Anda sudah menginstal:
 1. Clone repository ini:
    ```bash
    git clone https://github.com/Camn0/Tugas2_CV_URO.git
+   cd Tugas2_CV_URO
    cd opencyproyek
    ```
 
@@ -45,9 +46,9 @@ Pastikan Anda sudah menginstal:
    ./object_detection
    ```
 
-4. Untuk YOLO super bonus, navigasi ke folder `super_bonus/` dan build proyek:
+4. Untuk YOLO super bonus, navigasi ke folder `yolo_proyek/` dan build proyek:
    ```bash
-   cd super_bonus
+   cd yolo_proyek
    mkdir build
    cd build
    cmake ..
@@ -61,4 +62,4 @@ Pastikan Anda sudah menginstal:
 Link video deteksi objek menggunakan OpenCV: https://drive.google.com/file/d/1MCzS70ob8T8hmq9_eUVdrpL13yPe1Tuq/view?usp=drivesdk
 
 ### Super Bonus (YOLO)
-Link video deteksi objek menggunakan YOLO: https://drive.google.com/file/d/ (Belum Selesai)
+Link video deteksi objek menggunakan YOLO: https://drive.google.com/file/d/1x8CXj87yCM4mpO-mkRp5-TvBT6MYTRZT/view?usp=sharing
