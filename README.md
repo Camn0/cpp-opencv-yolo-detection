@@ -1,7 +1,4 @@
 # Tugas2_CV_URO
-# Object Detection with OpenCV
-
-## Tugas 2 - Computer Vision SEKURO PROGRAMMING 2025
 
 ### Deskripsi Tugas
 Proyek ini bertujuan untuk mendeteksi objek 2D pada video menggunakan teknik pemrosesan gambar dengan OpenCV. Program ini diimplementasikan dalam bahasa **C++** menggunakan **OpenCV** dan **CMake** di lingkungan **Ubuntu** (dual boot).
