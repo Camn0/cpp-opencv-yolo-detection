@@ -1,0 +1,3 @@
+/home/kinarast/opencyproyek/build/CMakeFiles/object_detection.dir
+/home/kinarast/opencyproyek/build/CMakeFiles/edit_cache.dir
+/home/kinarast/opencyproyek/build/CMakeFiles/rebuild_cache.dir
