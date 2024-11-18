@@ -1,5 +1,4 @@
 # Tugas2_CV_URO
-```markdown
 # Object Detection with OpenCV
 
 ## Tugas 2 - Computer Vision SEKURO PROGRAMMING 2025
@@ -20,8 +19,6 @@ Proyek ini bertujuan untuk mendeteksi objek 2D pada video menggunakan teknik pem
 
 ### Super Bonus
 - Menggunakan algoritma **YOLO (You Only Look Once)** untuk deteksi objek.
-
----
 
 ## Cara Menjalankan Program
 
