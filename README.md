@@ -28,8 +28,8 @@ Pastikan Anda sudah menginstal:
 ### Langkah-langkah Build dan Run
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/my_opencv_project.git
-   cd my_opencv_project
+   git clone https://github.com/Camn0/Tugas2_CV_URO.git
+   cd opencyproyek
    ```
 
 2. Build proyek dengan **CMake**:
