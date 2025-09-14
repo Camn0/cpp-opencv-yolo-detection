@@ -1,4 +1,4 @@
-# Tugas2_CV_URO
+# CV_ObjDetection
 
 ### Deskripsi Tugas
 Proyek ini bertujuan untuk mendeteksi objek pada video menggunakan teknik pemrosesan gambar dengan OpenCV. Program ini diimplementasikan dalam bahasa **C++** menggunakan **OpenCV** dan **CMake** di lingkungan **Ubuntu** (dual boot).
