@@ -1,4 +1,4 @@
-# Deteksi Objek Berbasis Warna dengan OpenCV di C++
+# Deteksi Objek Berbasis Warna dan Bentuk dengan OpenCV di C++
 
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=cplusplus)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-blue?style=for-the-badge&logo=opencv)
@@ -62,8 +62,8 @@ Pastikan sudah menginstal:
 
 ## Dokumentasi Video
 
-### Tugas Wajib
+### Deteksi Objek Warna
 Link video deteksi objek menggunakan OpenCV: https://drive.google.com/file/d/1MCzS70ob8T8hmq9_eUVdrpL13yPe1Tuq/view?usp=drivesdk
 
-### Super Bonus (YOLO)
+### Deteksi Objek Bentuk (YOLO)
 Link video deteksi objek menggunakan YOLO: https://drive.google.com/file/d/1x8CXj87yCM4mpO-mkRp5-TvBT6MYTRZT/view?usp=sharing
