@@ -1,4 +1,8 @@
-# cpp-opencv-yolo-detection
+# Deteksi Objek Berbasis Warna dengan OpenCV di C++
+
+![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=cplusplus)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-blue?style=for-the-badge&logo=opencv)
+![CMake](https://img.shields.io/badge/CMake-3.16%2B-orange?style=for-the-badge&logo=cmake)
 
 ### Deskripsi Tugas
 Proyek ini bertujuan untuk mendeteksi objek pada video menggunakan teknik pemrosesan gambar dengan OpenCV. Program ini diimplementasikan dalam bahasa **C++** menggunakan **OpenCV** dan **CMake** di lingkungan **Ubuntu** (dual boot).
