@@ -1,4 +1,4 @@
-# CV_ObjDetection
+# cpp-opencv-yolo-detection
 
 ### Deskripsi Tugas
 Proyek ini bertujuan untuk mendeteksi objek pada video menggunakan teknik pemrosesan gambar dengan OpenCV. Program ini diimplementasikan dalam bahasa **C++** menggunakan **OpenCV** dan **CMake** di lingkungan **Ubuntu** (dual boot).
@@ -28,8 +28,8 @@ Pastikan sudah menginstal:
 ### Langkah-langkah Build dan Run
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/Camn0/Tugas2_CV_URO.git
-   cd Tugas2_CV_URO
+   git clone https://github.com/Camn0/cpp-opencv-yolo-detection.git
+   cd cpp-opencv-yolo-detection
    cd opencyproyek
    ```
 
