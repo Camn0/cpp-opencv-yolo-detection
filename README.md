@@ -6,6 +6,14 @@
 
 ### Deskripsi Tugas
 Proyek ini bertujuan untuk mendeteksi objek pada video menggunakan teknik pemrosesan gambar dengan OpenCV. Program ini diimplementasikan dalam bahasa **C++** menggunakan **OpenCV** dan **CMake** di lingkungan **Ubuntu** (dual boot).
+## Dokumentasi Video
+
+### Deteksi Objek Warna
+[Screencast from 18-11-24 21_04_57.webm](https://github.com/user-attachments/assets/acf62f4e-fd4d-4b9a-b7a1-bf68dc5393d9)
+
+
+### Deteksi Objek Bentuk (YOLO)
+[Screencast from 18-11-24 22_49_26.webm](https://github.com/user-attachments/assets/1c62354e-33f9-4939-9ed1-707ce4fa708b)
 
 ### Fitur Utama
 1. Parsing frame dari video menggunakan `VideoCapture`.
@@ -60,10 +68,4 @@ Pastikan sudah menginstal:
    ./yolo_detection
    ```
 
-## Dokumentasi Video
 
-### Deteksi Objek Warna
-Link video deteksi objek menggunakan OpenCV: https://drive.google.com/file/d/1MCzS70ob8T8hmq9_eUVdrpL13yPe1Tuq/view?usp=drivesdk
-
-### Deteksi Objek Bentuk (YOLO)
-Link video deteksi objek menggunakan YOLO: https://drive.google.com/file/d/1x8CXj87yCM4mpO-mkRp5-TvBT6MYTRZT/view?usp=sharing
